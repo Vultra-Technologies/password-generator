@@ -1,6 +1,7 @@
 import string
 import random
 import os
+print("THIS IS THE COMMAND LINE VERSION OF THIS PASSWORD GENERATOR. THIS VERSION WILL NOT BE AS FEATURE PACKED OR AS USER-FRIENDLY AS THE UI VERSION.")
 
 print("How long do you want your password to be? \n \n 5 characters: Something not so important, like an unpaid newsletter acount. \n 10 letters: Something more important, like a Twitter (Now named X) account. \n 15 characters: A very important account, like an account containing payment information. \n Advanced - Other Length: Input your own number.")
 
